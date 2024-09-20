@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: Hydra Template
+title: M&M Results
 url: "https://proud-alligator.cloudvent.net"
 baseurl:
 google_analytics_key:
@@ -18,7 +18,7 @@ author:
 social:
   name: Hydra Template
   links:
-    - https://github.com/CloudCannon/hydra-jekyll-template
+    - https://github.com/Huntinex/mmresults.com
 
 # -----
 # Build
@@ -86,14 +86,9 @@ exclude:
 
 _select_data:
   social_icons:
-    - Facebook
     - Instagram
     - LinkedIn
-    - Pinterest
-    - Tumblr
     - Twitter
-    - YouTube
-    - RSS
 
 _comments:
   map: Update the map location and display settings.
